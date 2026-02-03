@@ -1,0 +1,14 @@
+﻿# Backups
+BACKUP_*/
+secret_backups_*/
+
+# Environment files
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc

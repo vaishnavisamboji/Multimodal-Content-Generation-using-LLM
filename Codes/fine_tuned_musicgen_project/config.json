@@ -1,0 +1,5 @@
+{
+  "num_candidates": 4,
+  "guidance_scale": 3.0,
+  "max_new_tokens": 256
+}
